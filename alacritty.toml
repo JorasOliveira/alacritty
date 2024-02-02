@@ -1,0 +1,16 @@
+live_config_reload = true
+
+[shell]
+program = "/usr/bin/zsh"
+
+# import = [
+#    "~/.config/alacritty/themes/themes/ayu_dark.toml"
+# ]
+
+[window]
+blur = true
+padding = {x = 10, y = 10}
+dynamic_padding = true
+decorations = "None"
+opacity = 0.8
+
